@@ -5,6 +5,7 @@ import Bottom from "./Components/Shared/Bottom";
 import NavBar from "./Components/Shared/NavBar";
 import WhatsApp from "./Components/Shared/WhatsApp";
 import $ from "jquery";
+
 import MyStepper from "./Components/Wizard/MyStepper";
 
 // import { StepperWithContent } from "./Components/Wizard/Stepper";
